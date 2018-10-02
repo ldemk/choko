@@ -1,0 +1,19 @@
+- git:
+    uri: https://github.com/ROBOTIS-GIT/turtlebot3.git
+    version: kinetic-devel
+    local-name: turtlebot3
+
+- git:
+    uri: https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+    version: kinetic-devel
+    local-name: turtlebot3_simulations
+    
+- git:
+    uri: https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+    version: kinetic-devel
+    local-name: turtlebot3_msgs
+
+- git:
+    uri: https://github.com/ldemk/choko.git
+    version: kinetic-devel
+    local-name: choko
