@@ -2,7 +2,7 @@
 The Turtlebot3 project.
 
 # Docker Installation
-Install Desktop OS Ubuntu 16.04 LTS
+Install Desktop OS Ubuntu 16.04 LTS 
 
 Install Docker-CE using the following [instructions](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
 
