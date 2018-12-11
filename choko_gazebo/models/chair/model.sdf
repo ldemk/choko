@@ -18,8 +18,8 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/vitaly/Завантаження/chair.stl</uri>
-            <scale>1 1 1</scale>
+            <uri>model://chair/meshes/chair.stl</uri>
+            <scale>0.1 0.1 0.1</scale>
           </mesh>
         </geometry>
         <material>
@@ -38,8 +38,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/vitaly/Завантаження/chair.stl</uri>
-            <scale>1 1 1</scale>
+            <uri>model://chair/meshes/chair.stl</uri>
           </mesh>
         </geometry>
         <surface>

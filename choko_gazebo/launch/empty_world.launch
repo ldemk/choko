@@ -1,0 +1,9 @@
+<launch>
+  <arg name="paused" default="true"/>
+  <!-- We resume the logic in empty_world.launch, changing only the name of the world to be launched -->
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="$(find choko_gazebo)/worlds/empty.world"/>
+    <arg name="paused" value="$(arg paused)"/>
+    <!-- more default parameters can be changed here -->
+  </include>
+</launch>

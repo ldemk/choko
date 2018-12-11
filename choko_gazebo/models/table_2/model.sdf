@@ -18,8 +18,8 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/vitaly/Завантаження/table_2.stl</uri>
-            <scale>1 1 1</scale>
+            <uri>model://table_2/meshes/table_2.stl</uri>
+            <scale>0.05 0.05 0.05</scale>
           </mesh>
         </geometry>
         <material>
@@ -38,8 +38,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/vitaly/Завантаження/table_2.stl</uri>
-            <scale>1 1 1</scale>
+            <uri>model://table_2/meshes/table_2.stl</uri>
           </mesh>
         </geometry>
         <surface>
